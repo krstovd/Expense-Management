@@ -27,15 +27,6 @@ You need to develop a web application for expense management.
 
 **IMPORTANT:** All mentioned tests are located in the `SeleniumScenarioTest` class.
 
-## Submitting the Solution
-
-You must run the tests, because that is how you submit your solution for review.  
-To check whether your solution was successfully submitted, open `185.153.49.149/submit/[index]`, where you replace `[index]` with your student index, which you previously set in the `TODO` value.
-
-The tests will help you validate correctness and will also send information to the server about how far your application works. Code will be visible only for students for whom at least one check (`ExamAssert`) passes.
-
-**You are NOT allowed to modify the tests or any part of the `test` package, except entering your index.**  
-**You MUST enter your index in the place marked with `TODO` in the `SeleniumScenarioTest` class.**
 
 ## Technical Instructions
 
